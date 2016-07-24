@@ -11,6 +11,7 @@
     <script type="text/javascript" src="extjs4/ext-all-debug.js"></script>
     <script type="text/javascript" src="app/view/gridPerson.js"></script>
 	<script type="text/javascript" src="app/view/formPerson.js"></script>
+	<script type="text/javascript" src="app/view/filterPerson.js"></script>
 	<script type="text/javascript" src="app/view/panelPerson.js"></script>
 	<script type="text/javascript" src="app/model/storePerson.js"></script>
 	<script type="text/javascript" src="app/model/modelPerson.js"></script>

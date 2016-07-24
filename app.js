@@ -9,6 +9,7 @@ Ext.require([
   'app.model.storePerson',
   'app.view.panelPerson',
   'app.view.formPerson',
+  'app.view.filterPerson',
   'app.controller.mainController'
 ]);
 

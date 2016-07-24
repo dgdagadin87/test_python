@@ -19,6 +19,7 @@ Ext.define('app.view.panelPerson', {
 			height: 35,
 			collapsed:false,
 			collapsible:false,
+			items: [Ext.create('app.view.filterPerson')]
 		},
 		{
 			title: 'Form',
